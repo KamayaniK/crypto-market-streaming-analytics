@@ -1,0 +1,4 @@
+requests
+python-dotenv
+kafka-python==3.0.11
+mysql-connector-python==2.2.7
